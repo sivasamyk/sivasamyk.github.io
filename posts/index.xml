@@ -1,14 +1,15 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Tags on The Personal Blog of Siva Kaliappan</title>
-   <link>http://localhost:1313/tags/</link>
-   <description>Recent content in Tags on The Personal Blog of Siva Kaliappan</description>
+   <title>Posts on The Personal Blog of Siva Kaliappan</title>
+   <link>http://localhost:1313/posts/</link>
+   <description>Recent content in Posts on The Personal Blog of Siva Kaliappan</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
    <copyright>Copyright &amp;copy; 2021 - Siva Kaliappan</copyright>
+   <lastBuildDate>Thu, 31 Dec 2020 14:08:21 +0530</lastBuildDate>
    
-       <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
